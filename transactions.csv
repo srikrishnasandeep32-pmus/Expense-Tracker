@@ -1,0 +1,6 @@
+date,type,category,description,amount
+2026-11-01,Income,Salary,Job,200000.0
+2026-11-10,Income,Freelance,No description,20000.0
+2026-11-25,Income,Other,Video editing,5000.0
+2026-11-11,Expense,Food,Party,2000.0
+2026-11-14,Expense,Savings,Car,50000.0
